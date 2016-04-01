@@ -9,7 +9,7 @@
 title: Spoon & Birdcage
 email: spoonandbirdcage@gmail.com
 description: > # this means to ignore newlines until "baseurl:"
-  Spoon & Birdcage: Portfolio of Barrett A. Long. Artist/Design/Developer/Other Things
+  Spoon & Birdcage: Portfolio of Barrett A. Long. Artist/Designer/Developer/Boston Terrier Owner/Other Things
 baseurl: "" # the subpath of your site, e.g. /blog
 url: "http://spoonandbirdcage.com" # the base hostname & protocol for your site
 twitter_username: SpoonBirdcage
