@@ -1,0 +1,28 @@
+# Welcome to Jekyll!
+#
+# This config file is meant for settings that affect your whole blog, values
+# which you are expected to set up once and rarely need to edit after that.
+# For technical reasons, this file is *NOT* reloaded automatically when you use
+# 'jekyll serve'. If you change this file, please restart the server process.
+
+# Site settings
+title: Spoon And Birdcage
+email: info@spoonandbirdcage.com
+description: > # this means to ignore newlines until "baseurl:"
+  Write an awesome description for your new site here. You can edit this
+  line in _config.yml. It will appear in your document head meta (for
+  Google search results) and in your feed.xml site description.
+baseurl: "" # the subpath of your site, e.g. /blog
+url: "http://spoonandbirdcage.com" # the base hostname & protocol for your site
+twitter_username: SpoonBirdcage
+github_username:  SpoonAndBirdcage
+
+# Build settings
+markdown: kramdown
+
+# Excluded/Keep Files
+exclude: ['node_modules', 'css', '_scss', 'package.json', 'Gruntfile.js', 'dist']
+keep_files: ['_site/css', '_site/assets', '_site/js']
+
+# Permalinks
+permalink: :categories/:title
